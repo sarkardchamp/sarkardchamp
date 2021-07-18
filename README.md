@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarkardchamp
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Web Development using Django
 
 <!---
 sarkardchamp/sarkardchamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
